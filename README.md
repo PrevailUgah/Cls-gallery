@@ -1,5 +1,6 @@
 
-My secondary photo gallery
+## My secondary photo gallery
+
 A modern, interactive photo gallery web application built with HTML, CSS, and JavaScript. Showcasing a responsive and user-friendly interface for browsing and interacting with images.
 
 **[🚀 View Live Demo](https://prevailugah.github.io/Cls-gallery/)**
